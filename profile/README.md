@@ -33,7 +33,7 @@ When there are authority lists in your project (stored in /webapps/ROOT/content/
 
 # Get in touch!
 
-Martina Filosa (Universität zu Köln): martina.filosa@uni-koeln.de 
-Claes Neuefeind (Universität zu Köln): c.neuefeind@uni-koeln.de 
-Claudia Sode (Universität zu Köln): claudia.sode@uni-koeln.de 
-Alessio Sopracasa (Sorbonne Université/CNRS UMR 8167): alessio.sopracasa@college-de-france.fr 
+* Martina Filosa (Universität zu Köln): martina.filosa@uni-koeln.de 
+* Claes Neuefeind (Universität zu Köln): c.neuefeind@uni-koeln.de 
+* Claudia Sode (Universität zu Köln): claudia.sode@uni-koeln.de 
+* Alessio Sopracasa (Sorbonne Université/CNRS UMR 8167): alessio.sopracasa@college-de-france.fr 
