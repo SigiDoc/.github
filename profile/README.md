@@ -25,7 +25,7 @@ If you would like to encode your seals with SigiDoc and to make them searchable 
 
 # Encoding guidelines
 
-The latest - under construction - version of the guidelines (v2.0) is at [https://github.com/SigiDoc/Guidelines](https://github.com/SigiDoc/Guidelines).
+The latest - under construction - version of the guidelines (v2.0) is at https://github.com/SigiDoc/Guidelines/wiki.
 
 # Development
 
