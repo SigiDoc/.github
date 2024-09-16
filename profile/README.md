@@ -2,7 +2,7 @@
 
 # SigiDoc
 
-SigiDoc 1.0 - The XML-based and EpiDoc-compliant encoding standard for the scholarly edition of Byzantine lead seals and coin-like objects. Newest developments in the framework of the DFG-ANR project DigiByzSeal "Unlocking the Hidden Value of Seals: New Methodologies for Historical Research in Byzantine Studies" ANR: https://anr.fr/Project-ANR-21-FRAL-0008; DFG: https://gepris.dfg.de/gepris/projekt/469385434.
+SigiDoc - The XML-based and EpiDoc-compliant encoding standard for the scholarly edition of Byzantine lead seals and coin-like objects. Newest developments in the framework of the DFG-ANR project DigiByzSeal "Unlocking the Hidden Value of Seals: New Methodologies for Historical Research in Byzantine Studies" ANR: https://anr.fr/Project-ANR-21-FRAL-0008; DFG: https://gepris.dfg.de/gepris/projekt/469385434.
 
 # DigiByzSeal Metaportal
 
@@ -25,7 +25,7 @@ If you would like to encode your seals with SigiDoc and to make them searchable 
 
 # Encoding guidelines
 
-The latest version of the guidelines (v1.0) is at https://github.com/SigiDoc/Guidelines.
+The latest - under construction - version of the guidelines (v2.0) is at [https://github.com/SigiDoc/Guidelines](https://github.com/SigiDoc/Guidelines).
 
 # Development
 
