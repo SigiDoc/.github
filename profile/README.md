@@ -2,22 +2,24 @@
 
 # SigiDoc
 
-SigiDoc - The XML-based and EpiDoc-compliant encoding standard for the scholarly edition of Byzantine lead seals and coin-like objects. Newest developments in the framework of the DFG-ANR project DigiByzSeal "Unlocking the Hidden Value of Seals: New Methodologies for Historical Research in Byzantine Studies" ANR: https://anr.fr/Project-ANR-21-FRAL-0008; DFG: https://gepris.dfg.de/gepris/projekt/469385434.
+SigiDoc - The XML-based and EpiDoc-compliant encoding standard for the scholarly edition of Byzantine lead seals and coin-like objects. Newest developments in the framework of the DFG-ANR project DigiByzSeal "Unlocking the Hidden Value of Seals: New Methodologies for Historical Research in Byzantine Studies" ANR: [anr.fr/Project-ANR-21-FRAL-0008](https://anr.fr/Project-ANR-21-FRAL-0008); DFG: [gepris.dfg.de/gepris/projekt/469385434](https://gepris.dfg.de/gepris/projekt/469385434).
 
-# DigiByzSeal Metaportal
+# SigiDoc Portal
 
-The goal of the DigiByzSeal project is creating a sigillographic hub, an overarching search portal for all collections encoded in SigiDoc-XML, whether they have a web presence or not. You can see the structure of the metaportal here:
+The goal of the DigiByzSeal project is creating a sigillographic hub, an overarching search portal for all collections encoded in SigiDoc-XML, whether they have a web presence or not. The SigiDoc Portal has been launched at the 13th International Symposium of Byzantine Sigillography, held in Cologne on March 27-29, 2025 and is currently available: [sigidoc.cceh.uni-koeln.de](https://sigidoc.cceh.uni-koeln.de/en/).
+
+You can see the structure of the metaportal here:
 
 ![Portal-structure](https://github.com/SigiDoc/.github/assets/29565842/54c112d9-0024-4850-bb04-307d959c3d80)
 
 # Collections currently encoded in SigiDoc
 
-* Collection **Robert Feind**, Cologne: [Collection Repo](https://github.com/byzantinistik-koeln/feind-collection), [EFES instance](https://github.com/byzantinistik-koeln/EFES-SigiDoc-feind)
-* Collection **Yavuz Tatış**, İzmir: [Collection Repo](https://github.com/sceaux-byzantins-paris/tatish-collection), [EFES instance](https://github.com/sceaux-byzantins-paris/EFES-SigiDoc-tatish)
-* Collection **Seyrig**, Bibliothèque nationale de France, Paris: [Collection Repo](https://github.com/sceaux-byzantins-paris/seyrig-collection), [EFES instance](https://github.com/sceaux-byzantins-paris/EFES-SigiDoc-seyrig)
-* Collection **Zacos**, Bibliothèque nationale de France, Paris: [Collection Repo](https://github.com/sceaux-byzantins-paris/zacos-collection), [EFES instance](https://github.com/sceaux-byzantins-paris/EFES-SigiDoc-zacos)
-* Collection of the **Institut Français d'Études Byzantines**, Paris: [Collection Repo](https://github.com/sceaux-byzantins-paris/ifeb-collection), [EFES instance](https://github.com/sceaux-byzantins-paris/EFES-SigiDoc-ifeb)
-* Collection of the **Musée d'art et d'histoire de Genève**: [Collection Repo](https://github.com/mahgeneve/zacos-geneva-collection), [EFES instance](https://github.com/mahgeneve/EFES-SigiDoc-mahgeneve)
+* Collection **Robert Feind**, Cologne: [Collection Repo](https://github.com/byzantinistik-koeln/feind-collection), [EFES instance](https://github.com/byzantinistik-koeln/EFES-SigiDoc-feind), [Website](https://feind.sigidoc.cceh.uni-koeln.de/de/)
+* Collection **Yavuz Tatış**, İzmir: [Collection Repo](https://github.com/sceaux-byzantins-paris/tatish-collection), [EFES instance](https://github.com/sceaux-byzantins-paris/EFES-SigiDoc-tatish), [Website](https://tatis.sigidoc.huma-num.fr/fr/)
+* Collection **Seyrig**, Bibliothèque nationale de France, Paris: [Collection Repo](https://github.com/sceaux-byzantins-paris/seyrig-collection), [EFES instance](https://github.com/sceaux-byzantins-paris/EFES-SigiDoc-seyrig), [Website](https://seyrig.sigidoc.huma-num.fr/fr/)
+* Collection **Zacos**, Bibliothèque nationale de France, Paris: [Collection Repo](https://github.com/sceaux-byzantins-paris/zacos-collection), [EFES instance](https://github.com/sceaux-byzantins-paris/EFES-SigiDoc-zacos), [Website](https://zacos.sigidoc.huma-num.fr/fr/)
+* Collection of the **Institut Français d'Études Byzantines**, Paris: [Collection Repo](https://github.com/sceaux-byzantins-paris/ifeb-collection), [EFES instance](https://github.com/sceaux-byzantins-paris/EFES-SigiDoc-ifeb), [Website](https://ifeb.sigidoc.huma-num.fr/fr/)
+* Collection of the **Musée d'art et d'histoire de Genève**: [Collection Repo](https://github.com/mahgeneve/zacos-geneva-collection), [EFES instance](https://github.com/mahgeneve/EFES-SigiDoc-mahgeneve), Website coming soon!
 * ...and many more are joining!
 
 # Onboarding guidelines
