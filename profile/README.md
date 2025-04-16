@@ -15,6 +15,7 @@ The goal of the DigiByzSeal project is creating a sigillographic hub, an overarc
 * Collection Robert Feind, Cologne: [Collection Repo](https://github.com/byzantinistik-koeln/feind-collection), [EFES instance](https://github.com/byzantinistik-koeln/EFES-SigiDoc-feind)
 * Collection Seyrig, Bibliothèque nationale de France, Paris: [Collection Repo](https://github.com/sceaux-byzantins-paris/seyrig-collection), [EFES instance](https://github.com/sceaux-byzantins-paris/EFES-SigiDoc-seyrig)
 * Collection of the Institut Français d'Études Byzantines, Paris: [Collection Repo](https://github.com/sceaux-byzantins-paris/ifeb-collection), [EFES instance](https://github.com/sceaux-byzantins-paris/EFES-SigiDoc-ifeb)
+* Collection of the Musée d'art et d'histoire de Genève: [Collection Repo](https://github.com/mahgeneve/zacos-geneva-collection), [EFES instance](https://github.com/mahgeneve/EFES-SigiDoc-mahgeneve)
 * ...and many more are joining!
 
 # Onboarding guidelines
