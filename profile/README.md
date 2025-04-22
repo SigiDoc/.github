@@ -19,7 +19,7 @@ You can see the structure of the metaportal here:
 * Collection **Seyrig**, Bibliothèque nationale de France, Paris: [Collection Repo](https://github.com/sceaux-byzantins-paris/seyrig-collection), [EFES instance](https://github.com/sceaux-byzantins-paris/EFES-SigiDoc-seyrig), [Website](https://seyrig.sigidoc.huma-num.fr/fr/)
 * Collection **Zacos**, Bibliothèque nationale de France, Paris: [Collection Repo](https://github.com/sceaux-byzantins-paris/zacos-collection), [EFES instance](https://github.com/sceaux-byzantins-paris/EFES-SigiDoc-zacos), [Website](https://zacos.sigidoc.huma-num.fr/fr/)
 * Collection of the **Institut Français d'Études Byzantines**, Paris: [Collection Repo](https://github.com/sceaux-byzantins-paris/ifeb-collection), [EFES instance](https://github.com/sceaux-byzantins-paris/EFES-SigiDoc-ifeb), [Website](https://ifeb.sigidoc.huma-num.fr/fr/)
-* Collection of the **Musée d'art et d'histoire de Genève**: [Collection Repo](https://github.com/mahgeneve/zacos-geneva-collection), [EFES instance](https://github.com/mahgeneve/EFES-SigiDoc-mahgeneve), Website coming soon!
+* Collection of the **Musée d'art et d'histoire**, Geneva: [Collection Repo](https://github.com/mahgeneve/zacos-geneva-collection), [EFES instance](https://github.com/mahgeneve/EFES-SigiDoc-mahgeneve), Website coming soon!
 * ...and many more are joining!
 
 # Onboarding guidelines
