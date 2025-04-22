@@ -24,13 +24,13 @@ You can see the structure of the metaportal here:
 
 # Onboarding guidelines
 
-If you would like to encode your seals with SigiDoc and to make them searchable via the DigiByzSeal search portal, featuring more than 4,000 seals, get in touch with the developers or the PIs of [DigiByzSeal](https://ifa.phil-fak.uni-koeln.de/forschung/byzantinistik-und-neugriechische-philologie-forschung/drittmittel-projekte/digibyzseal). We are eager to help! 🌈
+If you would like to encode your seals with SigiDoc and to make them searchable via the SigiDoc search portal, featuring more than 4,000 seals, get in touch with the developers or the PIs of [DigiByzSeal](https://ifa.phil-fak.uni-koeln.de/forschung/byzantinistik-und-neugriechische-philologie-forschung/drittmittel-projekte/digibyzseal). We are eager to help! 🌈
 
 ![Onboarding-guidelines](https://github.com/SigiDoc/.github/assets/29565842/7f699561-42e7-4330-8904-e25cf54fc2b5)
 
 # Encoding guidelines
 
-The latest - under construction - version of the guidelines (v2.0) is at https://github.com/SigiDoc/Guidelines/wiki.
+The latest version of the guidelines (v2.0) is at https://github.com/SigiDoc/Guidelines/wiki.
 
 # Development
 
