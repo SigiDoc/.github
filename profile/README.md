@@ -10,7 +10,7 @@ The goal of the DigiByzSeal project is creating a sigillographic hub, an overarc
 
 You can see the structure of the metaportal here:
 
-![Portal-structure](https://github.com/SigiDoc/.github/assets/29565842/54c112d9-0024-4850-bb04-307d959c3d80)
+![Portal-structure](https://github.com/user-attachments/assets/4eaf2c41-3122-4c6e-856d-c9d51c76ebbb)
 
 # Collections currently encoded in SigiDoc
 
